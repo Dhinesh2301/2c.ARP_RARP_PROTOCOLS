@@ -23,7 +23,11 @@ P
 ![Screenshot 2024-09-06 124153](https://github.com/user-attachments/assets/5296e442-2467-4cee-a049-961d87f5300c)
 
 ## PROGRAM - RARP
+![Screenshot 2024-09-06 124800](https://github.com/user-attachments/assets/26cf3b00-c913-4608-8da2-82d1327a56a5)
+
 ## OUPUT -RARP
+![Screenshot 2024-09-06 124849](https://github.com/user-attachments/assets/3193b385-10c2-47c1-803c-92151ee2ca7c)
+
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
